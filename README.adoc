@@ -1,0 +1,6 @@
+= Test Spring Boot app
+
+== Deployment
+https://stackoverflow.com/questions/62087265/deploy-code-directly-to-aws-ec2-instance-using-github-actions[this article] outlines
+how to deploy to EC2 using GitHub Actions
+
